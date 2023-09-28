@@ -11,6 +11,7 @@ body {
 
 header {
     text-align: center;
+    margin-bottom: 30px;
 }
 
 .container {
@@ -23,4 +24,12 @@ h1 {
     color: #e53170;
     font-size: 40px;
     font-weight: bolder;
+}
+
+.team > .col {
+    width: calc(100% / 3 - 40px);
+    float: left;
+    padding: 20px;
+    margin: 20px;
+    background-color: yellow;
 }
