@@ -26,6 +26,10 @@ h1 {
     font-weight: bolder;
 }
 
+h2{
+    font-size: 15px;
+}
+
 .team > .col {
     width: calc(100% / 3 - 40px);
     float: left;
@@ -35,7 +39,7 @@ h1 {
 
 .foto {
     float: left;
-    width: 100px;
+    width: 90px;
 }
 
 .bio {
@@ -48,4 +52,13 @@ h1 {
 .foto img {
     width: 100%;
     display: block;
+}
+
+.bio > .lavoro, a{
+    font-size: 12px;
+}
+
+.bio a {
+    color: #4dccf2;
+    text-decoration: none;
 }
