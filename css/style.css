@@ -33,3 +33,11 @@ h1 {
     margin: 20px;
     background-color: yellow;
 }
+
+.foto {
+    float: left;
+}
+
+.bio {
+    float: right;
+}
