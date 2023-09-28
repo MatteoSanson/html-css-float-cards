@@ -1,0 +1,1 @@
+# Scopo dell'esercizio è di ricreare un layout di pagina contenente 6 cards bio di un ipotetico team utilizzando FLOAT per i posizionamenti.
