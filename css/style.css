@@ -35,7 +35,10 @@ h2{
     width: calc(100% / 3 - 40px);
     float: left;
     margin: 20px;
-    background-color: #0f0e17;
+    background-color: #0f0e17; 
+    -moz-box-shadow: 0 0 10px #333333;
+    -webkit-box-shadow:0 0 10px #333333;
+    box-shadow: 0 0 10px #333333;
 }
 
 .foto {
