@@ -36,9 +36,9 @@ h2{
     float: left;
     margin: 20px;
     background-color: #0f0e17; 
-    -moz-box-shadow: 0 0 10px #333333;
-    -webkit-box-shadow:0 0 10px #333333;
-    box-shadow: 0 0 10px #333333;
+    -moz-box-shadow: 0 0 10px #a7a5a5;
+    -webkit-box-shadow:0 0 10px #a7a5a5;
+    box-shadow: 0 0 10px #a7a5a5;
 }
 
 .foto {
