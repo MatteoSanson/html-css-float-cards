@@ -28,6 +28,7 @@ h1 {
 
 h2{
     font-size: 15px;
+    line-height: 22px;
 }
 
 .team > .col {
@@ -56,9 +57,15 @@ h2{
 
 .bio > .lavoro, a{
     font-size: 12px;
+    line-height: 22px;
 }
 
 .bio a {
     color: #4dccf2;
     text-decoration: none;
+}
+
+.bio a:hover{
+    color: #e53170;
+    text-decoration: underline;
 }
