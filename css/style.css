@@ -6,8 +6,21 @@
 
 body {
     font-family: 'Fredoka', sans-serif;
+    color: #0f0e17;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Fredoka', sans-serif;
+header {
+    text-align: center;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    margin: 50px 0 50px 0;
+    color: #e53170;
+    font-size: 40px;
+    font-weight: bolder;
 }
