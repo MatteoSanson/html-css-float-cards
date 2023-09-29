@@ -31,6 +31,12 @@ h2{
     line-height: 22px;
 }
 
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
 .team > .col {
     width: calc(100% / 3 - 40px);
     float: left;
